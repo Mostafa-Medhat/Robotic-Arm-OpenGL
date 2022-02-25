@@ -1,13 +1,3 @@
-### Team Members
-
-| Name                          | Section |  BN |
-| ----------------------------- | :-----: | --: |
-| Abdelrahman Khaled Isamail    |    1    |  50 |
-| Mostafa Medhat Hakim          |    2    |  32 |
-| Mohab Hesham Ahmed            |    2    |  34 |
-| Hesham Gamal Abdelhady        |    2    |  46 |
-
-
 # Assignment 1 :computer graphics robotic arm
 
 - the main idea of this assignment was to starting to understand opengl and practice it .
